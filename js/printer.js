@@ -1,0 +1,1 @@
+console.log("Hello printer.js file");
